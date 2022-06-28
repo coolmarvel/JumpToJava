@@ -47,4 +47,5 @@ public class SwitchCase {
         }
         System.out.println(monthString);
     }
+    // switch/case문은 if else 구조로 변경이 가능하지만 if else 구조로 작성된 모든 코드를 switch 문으로 변경할 수는 없다.
 }
