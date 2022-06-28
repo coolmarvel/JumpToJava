@@ -29,11 +29,11 @@ public class Sample {
         Calculator cal1 = new Calculator(); // 계산기1 객체를 생성한다.
         Calculator cal2 = new Calculator(); // 계산기2 객체를 생성한다.
 
-        System.out.println(cal1.add(3));
-        System.out.println(cal1.add(4));
+        // System.out.println(cal1.add(3));
+        // System.out.println(cal1.add(4));
 
-        System.out.println(cal2.add(3));
-        System.out.println(cal2.add(7));
+        // System.out.println(cal2.add(3));
+        // System.out.println(cal2.add(7));
 
         Animal cat = new Animal();
         cat.setName("coco");
