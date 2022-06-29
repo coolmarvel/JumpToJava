@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class IOTypeTest {
     public static void main(String[] args) throws IOException {
